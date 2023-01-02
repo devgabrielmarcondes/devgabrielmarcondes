@@ -2,8 +2,7 @@
 <div align="center">
   <a href="https://github.com/devgabrielmarcondes">
   <img height="180em" src="https://github-readme-stats-delta-one-65.vercel.app//api?username=devgabrielmarcondes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="github-readme-stats-devgabrielmarcondes.vercel.app
-//api/top-langs/?username=devgabrielmarcondes&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="http://github-readme-stats-git-master-devgabrielmarcondes.vercel.app//api/top-langs/?username=devgabrielmarcondes&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
   <h2>Minhas habilidades:</h2>
