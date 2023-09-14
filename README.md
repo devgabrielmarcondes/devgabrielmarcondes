@@ -18,5 +18,6 @@
  
 <div>
   <h2>Contatos</h2>
+  <a href="https://www.linkedin.com/in/gabriel-marcondes-847b2a271/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%230a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
   <a href="https://instagram.com/devgabrielmarcondes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
 </div>
