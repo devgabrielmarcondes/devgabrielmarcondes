@@ -23,7 +23,7 @@ I'm a **Systems Analyst and Full-Stack Developer** (Project Lead) at T2S Tecnolo
 - 🔬 Engineered **HNSW vector search** for AI embeddings, taking candidate matching from O(n) → O(log n)
 - ⚡ Delivered a **2.5× dashboard performance boost** and **50% memory reduction** through backend refactoring
 - 🎓 Data Science Technologist — Fatec Baixada Santista
-- 🌍 English B2 (TOEIC 935/990) | Native Portuguese
+- 🌍 English C2 | Native Portuguese
 
 
 ## 🛠️ Tech Stack
