@@ -8,11 +8,11 @@
 
 ### Data Scientist · Full-Stack Developer · AI Engineer
 
-*Building intelligent systems — from neural embeddings to production APIs*
+*Building intelligent systems — from neural networks to production APIs*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Marcondes-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-marcondes-847b2a271/)
 [![Email](https://img.shields.io/badge/Email-devgabmasantos@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:devgabmasantos@gmail.com)
-[![Location](https://img.shields.io/badge/Santos,_Brazil-🇧🇷-2d9c3c?style=flat-square)](#)
+[![Location](https://img.shields.io/badge/São_Paulo,_Brazil-🇧🇷-2d9c3c?style=flat-square)](#)
 
 </div>
 
