@@ -16,7 +16,7 @@
 
 </div>
 
-## 🧠 About Me
+## About Me
 
 I'm a **Systems Analyst and Full-Stack Developer** (Project Lead) at T2S Tecnologia, where I design and build the **HRelper** ATS platform end-to-end. My work sits at the intersection of **software engineering** and **data science** — I architect scalable backends, optimize algorithms, and apply machine learning to real-world problems.
 
@@ -26,7 +26,7 @@ I'm a **Systems Analyst and Full-Stack Developer** (Project Lead) at T2S Tecnolo
 - 🌍 English C2 | Native Portuguese
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -61,7 +61,7 @@ I'm a **Systems Analyst and Full-Stack Developer** (Project Lead) at T2S Tecnolo
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 
-## 📬 Get in Touch
+## Get in Touch
 
 <div align="center">
 
