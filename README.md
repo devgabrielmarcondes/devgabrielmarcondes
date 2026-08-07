@@ -49,11 +49,4 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 
-## Get in Touch
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-marcondes-847b2a271/)
-[![Email](https://img.shields.io/badge/Send_me_an_email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devgabmasantos@gmail.com)
-
 </div>
